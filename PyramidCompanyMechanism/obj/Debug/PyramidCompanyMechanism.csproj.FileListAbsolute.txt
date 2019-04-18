@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\bin\Debug\PyramidCompanyMechanism.exe.config
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\bin\Debug\PyramidCompanyMechanism.exe
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\bin\Debug\PyramidCompanyMechanism.pdb
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\obj\Debug\PyramidCompanyMechanism.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\obj\Debug\PyramidCompanyMechanism.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\obj\Debug\PyramidCompanyMechanism.exe
+C:\Users\HP\Documents\Projects\PyramidCompanyMechanism\PyramidCompanyMechanism\PyramidCompanyMechanism\obj\Debug\PyramidCompanyMechanism.pdb
